@@ -165,9 +165,14 @@ Low-level concurrency experiments in Rust exploring the foundations of synchroni
 🦋 **Bluesky:** [@geniusinrust.bsky.social](https://bsky.app/profile/geniusinrust.bsky.social)
 
 ---
+<div align="center">
+Let's Build Something Great Together
+I'm always interested in connecting with engineers, teams, and projects pushing the boundaries of what's possible with Rust and systems engineering. Whether it's discussing architecture, collaborating on open source, or exploring new opportunities - I'd love to hear from you.
+Drop me a line at james.muriuki.dev@gmail.com or find me on GitHub
 
 <p>
   <em>Type-safe systems, thoughtful architecture, and making bugs impossible.</em>
   <br/>
   <strong>Let's create something that lasts. 🚀</strong>
 </p>
+</div>
