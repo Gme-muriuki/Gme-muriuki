@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=250&color=888888&center=true&vCenter=true&width=1000&height=50&lines=Rust+%26+Systems+Engineer;Building+type-safe%2C+high-performance+systems;Available+for+hire" alt="subtitle" />
 </p>
 
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#-core-competencies">Skills</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
+
 ---
 
 ## About Me
@@ -26,6 +34,18 @@ learning: Advanced async patterns, LLM integration with Rust
 ```
 
 I'm a **self-taught Rust engineer** passionate about building efficient, type-safe systems that prevent entire classes of bugs at compile time. With a foundation in systems programming and distributed architectures, I create production-grade software that balances performance with correctness. Currently contributing to **[Symposium](https://symposium.dev)** - exploring AI the Rust way.
+
+---
+
+## 💪 Core Competencies
+
+| Category | Skills |
+|----------|--------|
+| **Systems** | Async runtimes, concurrency primitives, atomics, locks, multithreading |
+| **Domain Modeling** | Type-safe designs, blockchain/crypto, financial systems, distributed ledgers |
+| **Architecture** | ECS patterns, compiler pipelines, event-driven systems, P2P networking |
+| **Game Dev** | Procedural generation, map algorithms, AI pathfinding, ECS architecture |
+| **Developer Tools** | CLI utilities, build systems, automation, DevOps tooling |
 
 ---
 
@@ -81,7 +101,10 @@ The best tools are invisible - they get out of your way and let you focus on the
 
 ---
 
+
 ## 💼 Featured Projects
+
+> These are some of my most substantial works showcasing different domains of systems engineering.
 
 ### **[Blackspire](https://github.com/Gme-muriuki/blackspire)** - Roguelike Game Engine in Rust
 A full-featured roguelike game built with Rust featuring procedurally generated dungeons, turn-based combat, and Entity Component System (ECS) architecture. Implements three map generation algorithms (Rooms, Cellular Automata, Drunkard's Walk), field-of-view mechanics, multiple enemy types with AI, and item systems. Built with bracket-lib and Legion ECS, showcasing game development fundamentals and complex system interactions.
@@ -103,6 +126,13 @@ Low-level concurrency experiments in Rust exploring the foundations of synchroni
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Projects-5+-CE422B?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/Languages-4-3178C6?style=for-the-badge" alt="Languages" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Backend-00ADD8?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Passion-Tooling-F7A121?style=for-the-badge" alt="Passion" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Gme-muriuki">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gme-muriuki&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
@@ -115,7 +145,11 @@ Low-level concurrency experiments in Rust exploring the foundations of synchroni
 
 ## 🎯 Let's Connect
 
-**What I'm Looking For:**
+### What I'm Looking For
+
+> I'm actively seeking opportunities where I can contribute to meaningful technical challenges while continuing to grow as an engineer.
+
+**Ideal Roles:**
 - Backend/systems engineering roles focused on correctness and performance
 - Teams building infrastructure, async runtimes, or distributed systems
 - Opportunities to work on type-safe financial or crypto systems
@@ -124,18 +158,16 @@ Low-level concurrency experiments in Rust exploring the foundations of synchroni
 
 **Currently interested in:** Rust-first companies, infrastructure teams, and startups solving hard systems problems.
 
-I'm **actively looking for opportunities** in:
-- Rust backend development
-- Systems programming & infrastructure
-- Distributed systems & consensus
-- Open-source contributions
+### Get in Touch
 
-**Get in touch:**  
-📧 [james.muriuki.dev@gmail.com](mailto:james.muriuki.dev@gmail.com)  
-🔗 [GitHub](https://github.com/Gme-muriuki) | 🦋 [Bluesky](https://bsky.app/profile/geniusinrust.bsky.social)
+📧 **Email:** [james.muriuki.dev@gmail.com](mailto:james.muriuki.dev@gmail.com)  
+🔗 **GitHub:** [@Gme-muriuki](https://github.com/Gme-muriuki)  
+🦋 **Bluesky:** [@geniusinrust.bsky.social](https://bsky.app/profile/geniusinrust.bsky.social)
 
 ---
 
-<p align="center">
-  <sub>Always learning, always building. Interested in type-safe systems and making bugs impossible? Let's talk! 🚀</sub>
+<p>
+  <em>Type-safe systems, thoughtful architecture, and making bugs impossible.</em>
+  <br/>
+  <strong>Let's create something that lasts. 🚀</strong>
 </p>
